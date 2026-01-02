@@ -1,0 +1,84 @@
+[33mcommit 186aa5b186493f7f89f2abb8feab182ad53cc238[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 881aa68 c320ee2
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:29:53 2026 +0100
+
+    Merge branch 'rama'
+
+[33mcommit c320ee2bf163af6f7fa0102e9b156961ba0cae63[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:29:38 2026 +0100
+
+    Lorena
+
+[33mcommit 881aa68c6a81975bfc4616c7f64a5d1fdc9eb945[m
+Merge: 701bce8 73ed77e
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:27:47 2026 +0100
+
+    Merge branch 'rama'
+
+[33mcommit 73ed77e7a9203d1120f3a454d11e6cc1112fb9a6[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:27:30 2026 +0100
+
+    Cambio nombre a Paula
+
+[33mcommit 701bce812bae1aa932dab90d20309aa32585bf50[m
+Merge: b73035a 4ccb61a
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:25:04 2026 +0100
+
+    Hola
+    
+    Merge branch 'rama'
+
+[33mcommit 4ccb61afbc2ce4d3227538acfaeb5dbc58d7d78e[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:24:50 2026 +0100
+
+    Cambios nombre
+
+[33mcommit b73035a23f65ff60cb0562c3c1325e6c80adefb8[m
+Merge: 06b259e 95b289a
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:20:47 2026 +0100
+
+    Super necesario
+    Merge branch 'rama'
+
+[33mcommit 95b289a8d6bc5a911e381448c73662412d44979c[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:20:30 2026 +0100
+
+    cambios rama
+
+[33mcommit 06b259e7d33a2ab06cf9c527a3f18047d7beda22[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:17:58 2026 +0100
+
+    Cambios rama
+
+[33mcommit 4a7bdd6903f7ea194355ef5d1591399e6ab26524[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Jan 2 15:13:12 2026 +0100
+
+    README rama
+
+[33mcommit d314fa6dc69722ec25e280c1c6739d1fe4af8fac[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Dec 5 21:21:02 2025 +0100
+
+    Añadimos variable edad a prueba
+
+[33mcommit f252e4f02d24f06bfd08b477ca314952d7a8e8ce[m
+Author: laurarj24 <lromerovet@gmail.com>
+Date:   Fri Dec 5 21:14:24 2025 +0100
+
+    añadir jupyter prueba y variable nombre
+
+[33mcommit d595fefc08aee78e1303d3e399acfedf8f1d6767[m
+Author: Laura Romero <162908772+laurarj24@users.noreply.github.com>
+Date:   Fri Dec 5 20:47:51 2025 +0100
+
+    Initial commit
